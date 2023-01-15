@@ -1,0 +1,11 @@
+[package]
+name = "FanToken"
+version = "0.0.0"
+
+[dependencies]
+Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework", rev = "devnet" }
+
+
+[addresses]
+std =  "0x1"
+fanToken = "0x0"
