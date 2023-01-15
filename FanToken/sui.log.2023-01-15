@@ -1,0 +1,12 @@
+2023-01-15T21:15:54.147656Z  WARN sui::client_commands: Client/Server api version mismatch, client api version : 0.20.0, server api version : 0.21.1
+2023-01-15T21:15:54.709581Z  INFO sui::client_commands:                  Object ID                  |  Gas Value 
+2023-01-15T21:15:54.709613Z  INFO sui::client_commands: ----------------------------------------------------------------------
+2023-01-15T21:16:04.418783Z  INFO sui::client_commands: 0x4b8ade95c939c82b3e6b1cf8bdea41e6ee662c5c
+2023-01-15T21:18:35.384432Z  WARN sui::client_commands: Client/Server api version mismatch, client api version : 0.20.0, server api version : 0.21.1
+2023-01-15T21:18:38.238692Z  INFO sui::client_commands:                  Object ID                  |  Gas Value 
+2023-01-15T21:18:38.238746Z  INFO sui::client_commands: ----------------------------------------------------------------------
+2023-01-15T21:18:38.238773Z  INFO sui::client_commands:  0x13271c9596f7e654a8b5f6bf2932562ea6c86f1b |  10000000  
+2023-01-15T21:18:38.238786Z  INFO sui::client_commands:  0x3277ae0164bd3f51556786515000429e6e79ec83 |  10000000  
+2023-01-15T21:18:38.238796Z  INFO sui::client_commands:  0x553139f63450fd45630cba9d77cb08fa2a3d6022 |  10000000  
+2023-01-15T21:18:38.238807Z  INFO sui::client_commands:  0x90be262a7ebb58fd3a396e0ae163cda8bc87852e |  10000000  
+2023-01-15T21:18:38.238832Z  INFO sui::client_commands:  0xe1be55a656f2d096d5ac75c64fb73de5555083f5 |  10000000  
